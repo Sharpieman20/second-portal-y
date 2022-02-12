@@ -1,0 +1,11 @@
+:nofooter:
+:hardbreaks:
+
+Source code for my writeup on optimal second portal y.
+
+Writeup available here: https://docs.google.com/document/d/1TR0PD8MXlFiXWIRa9NhRg2CuWQ03_qHaqIvFx_v61aI/edit?usp=sharing
+
+show_trials.py gives the first graph
+show_trials_zoomed.py gives the second graph
+stronghold_trials.txt are my results
+init.lua is the hammerspoon macro
